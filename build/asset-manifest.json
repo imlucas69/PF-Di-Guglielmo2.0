@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/PF-Di-Guglielmo2.0/build/static/css/main.cb988695.css",
+    "main.js": "/PF-Di-Guglielmo2.0/build/static/js/main.4c161972.js",
+    "static/media/brand.svg": "/PF-Di-Guglielmo2.0/build/static/media/brand.17cc6581a3eff9087c63b509bce11e6d.svg",
+    "static/media/shopping-cart.svg": "/PF-Di-Guglielmo2.0/build/static/media/shopping-cart.5b42058df42a6f29d3cd422ec16c547e.svg",
+    "static/media/cart.svg": "/PF-Di-Guglielmo2.0/build/static/media/cart.8d8557c133bd26a697ae85cb2a719590.svg",
+    "index.html": "/PF-Di-Guglielmo2.0/build/index.html",
+    "main.cb988695.css.map": "/PF-Di-Guglielmo2.0/build/static/css/main.cb988695.css.map",
+    "main.4c161972.js.map": "/PF-Di-Guglielmo2.0/build/static/js/main.4c161972.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cb988695.css",
+    "static/js/main.4c161972.js"
+  ]
+}
